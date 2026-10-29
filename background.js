@@ -15,6 +15,8 @@ const allowedDomains = [
     "web.whatsapp.com",
     "merakisystem.com",
     "merakisystem.i5.tel",
+    
+    // Is k nichay saray link sirf spreedsheet ko allow krne k liye add kiye gyae hein
     "google.com",
     "docs.google.com",
     "drive.google.com",
@@ -24,6 +26,10 @@ const allowedDomains = [
     "meet.google.com",
     "calendar.google.com",
     "mail.google.com",
+    "accounts.google.com",
+    "gstatic.com",
+    "googleapis.com",
+    "googleusercontent.com",
  
 
     // Mazeed websites yahan add kar sakte hain, misal ke tor par:

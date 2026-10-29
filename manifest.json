@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "Office Security Shield",
-    "version": "1.4",
+    "version": "1.5",
     "description": "Centralized secure website restriction extension for office environment.",
     "permissions": [
         "tabs"
